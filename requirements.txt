@@ -1,0 +1,8 @@
+streamlit
+pandas
+deep-translator
+SpeechRecognition
+pipwin
+pyaudio
+pyttsx3
+numpy

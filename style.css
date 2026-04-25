@@ -1,0 +1,29 @@
+body {
+    background-color: #f5f7ff;
+}
+
+.stButton>button {
+    background-color: #ff4b4b;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 150px;
+    font-size: 16px;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 10px;
+}
+
+h1 {
+    color: #1f77b4;
+    text-align: center;
+}
+
+.stSuccess {
+    background-color: #d4edda;
+}
+
+.stInfo {
+    background-color: #d1ecf1;
+}
